@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.gimmedat.app",
+      "sha256_cert_fingerprints": [
+        "17:D9:08:00:01:8F:D5:85:45:77:3E:22:93:46:BB:55:24:06:85:2C:6D:96:D5:FF:F6:50:A9:BC:85:FB:2C:D1"
+      ]
+    }
+  }
+]
