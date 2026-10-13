@@ -1,0 +1,2 @@
+# GitHub Pages (Jekyll) skips folders starting with a dot unless they are included explicitly.
+include: [".well-known"]
